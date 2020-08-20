@@ -1,0 +1,7 @@
+D:\C#Programs\CommandLineArguments\CommandLineArguments\bin\Debug\CommandLineArguments.exe.config
+D:\C#Programs\CommandLineArguments\CommandLineArguments\bin\Debug\CommandLineArguments.exe
+D:\C#Programs\CommandLineArguments\CommandLineArguments\bin\Debug\CommandLineArguments.pdb
+D:\C#Programs\CommandLineArguments\CommandLineArguments\obj\Debug\CommandLineArguments.csprojAssemblyReference.cache
+D:\C#Programs\CommandLineArguments\CommandLineArguments\obj\Debug\CommandLineArguments.csproj.CoreCompileInputs.cache
+D:\C#Programs\CommandLineArguments\CommandLineArguments\obj\Debug\CommandLineArguments.exe
+D:\C#Programs\CommandLineArguments\CommandLineArguments\obj\Debug\CommandLineArguments.pdb
