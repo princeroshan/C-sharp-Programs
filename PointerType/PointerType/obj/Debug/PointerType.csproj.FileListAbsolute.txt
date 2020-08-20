@@ -1,0 +1,6 @@
+D:\C#Programs\PointerType\PointerType\bin\Debug\PointerType.exe.config
+D:\C#Programs\PointerType\PointerType\bin\Debug\PointerType.exe
+D:\C#Programs\PointerType\PointerType\bin\Debug\PointerType.pdb
+D:\C#Programs\PointerType\PointerType\obj\Debug\PointerType.csproj.CoreCompileInputs.cache
+D:\C#Programs\PointerType\PointerType\obj\Debug\PointerType.exe
+D:\C#Programs\PointerType\PointerType\obj\Debug\PointerType.pdb

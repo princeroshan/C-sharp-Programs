@@ -1,0 +1,7 @@
+E:\C#Programs\Nested_Class2\Nested_Class2\obj\Debug\Private_Nested_Class.csprojAssemblyReference.cache
+E:\C#Programs\Nested_Class2\Nested_Class2\obj\Debug\Private_Nested_Class.csproj.CoreCompileInputs.cache
+E:\C#Programs\Nested_Class2\Nested_Class2\obj\Debug\Nested_Class2.exe
+E:\C#Programs\Nested_Class2\Nested_Class2\obj\Debug\Nested_Class2.pdb
+E:\C#Programs\Nested_Class2\Nested_Class2\bin\Debug\Nested_Class2.exe.config
+E:\C#Programs\Nested_Class2\Nested_Class2\bin\Debug\Nested_Class2.exe
+E:\C#Programs\Nested_Class2\Nested_Class2\bin\Debug\Nested_Class2.pdb

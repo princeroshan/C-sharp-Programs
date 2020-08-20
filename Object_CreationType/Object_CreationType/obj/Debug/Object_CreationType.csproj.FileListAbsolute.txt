@@ -1,0 +1,6 @@
+E:\C#Programs\Object_CreationType\Object_CreationType\bin\Debug\Object_CreationType.exe.config
+E:\C#Programs\Object_CreationType\Object_CreationType\bin\Debug\Object_CreationType.exe
+E:\C#Programs\Object_CreationType\Object_CreationType\bin\Debug\Object_CreationType.pdb
+E:\C#Programs\Object_CreationType\Object_CreationType\obj\Debug\Object_CreationType.csproj.CoreCompileInputs.cache
+E:\C#Programs\Object_CreationType\Object_CreationType\obj\Debug\Object_CreationType.exe
+E:\C#Programs\Object_CreationType\Object_CreationType\obj\Debug\Object_CreationType.pdb
