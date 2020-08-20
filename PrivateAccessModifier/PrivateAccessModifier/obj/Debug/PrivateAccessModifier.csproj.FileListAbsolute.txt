@@ -1,0 +1,7 @@
+E:\C#Programs\PrivateAccessModifier\PrivateAccessModifier\bin\Debug\PrivateAccessModifier.exe.config
+E:\C#Programs\PrivateAccessModifier\PrivateAccessModifier\bin\Debug\PrivateAccessModifier.exe
+E:\C#Programs\PrivateAccessModifier\PrivateAccessModifier\bin\Debug\PrivateAccessModifier.pdb
+E:\C#Programs\PrivateAccessModifier\PrivateAccessModifier\obj\Debug\PrivateAccessModifier.csprojAssemblyReference.cache
+E:\C#Programs\PrivateAccessModifier\PrivateAccessModifier\obj\Debug\PrivateAccessModifier.csproj.CoreCompileInputs.cache
+E:\C#Programs\PrivateAccessModifier\PrivateAccessModifier\obj\Debug\PrivateAccessModifier.exe
+E:\C#Programs\PrivateAccessModifier\PrivateAccessModifier\obj\Debug\PrivateAccessModifier.pdb

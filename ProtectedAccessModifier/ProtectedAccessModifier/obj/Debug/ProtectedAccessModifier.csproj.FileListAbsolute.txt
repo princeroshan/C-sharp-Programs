@@ -1,0 +1,13 @@
+C:\Users\princ\source\repos\ProtectedAccessModifier\ProtectedAccessModifier\bin\Debug\ProtectedAccessModifier.exe.config
+C:\Users\princ\source\repos\ProtectedAccessModifier\ProtectedAccessModifier\bin\Debug\ProtectedAccessModifier.exe
+C:\Users\princ\source\repos\ProtectedAccessModifier\ProtectedAccessModifier\bin\Debug\ProtectedAccessModifier.pdb
+C:\Users\princ\source\repos\ProtectedAccessModifier\ProtectedAccessModifier\obj\Debug\ProtectedAccessModifier.csproj.CoreCompileInputs.cache
+C:\Users\princ\source\repos\ProtectedAccessModifier\ProtectedAccessModifier\obj\Debug\ProtectedAccessModifier.exe
+C:\Users\princ\source\repos\ProtectedAccessModifier\ProtectedAccessModifier\obj\Debug\ProtectedAccessModifier.pdb
+D:\C#Programs\ProtectedAccessModifier\ProtectedAccessModifier\bin\Debug\ProtectedAccessModifier.exe.config
+D:\C#Programs\ProtectedAccessModifier\ProtectedAccessModifier\bin\Debug\ProtectedAccessModifier.exe
+D:\C#Programs\ProtectedAccessModifier\ProtectedAccessModifier\bin\Debug\ProtectedAccessModifier.pdb
+D:\C#Programs\ProtectedAccessModifier\ProtectedAccessModifier\obj\Debug\ProtectedAccessModifier.csprojAssemblyReference.cache
+D:\C#Programs\ProtectedAccessModifier\ProtectedAccessModifier\obj\Debug\ProtectedAccessModifier.csproj.CoreCompileInputs.cache
+D:\C#Programs\ProtectedAccessModifier\ProtectedAccessModifier\obj\Debug\ProtectedAccessModifier.exe
+D:\C#Programs\ProtectedAccessModifier\ProtectedAccessModifier\obj\Debug\ProtectedAccessModifier.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtectedAccessModifier", "ProtectedAccessModifier\ProtectedAccessModifier.csproj", "{84718E07-9E24-4045-AAFA-00CDB6BC744B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84718E07-9E24-4045-AAFA-00CDB6BC744B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84718E07-9E24-4045-AAFA-00CDB6BC744B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84718E07-9E24-4045-AAFA-00CDB6BC744B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84718E07-9E24-4045-AAFA-00CDB6BC744B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72661653-8734-4950-B886-13FD46E79089}
+	EndGlobalSection
+EndGlobal

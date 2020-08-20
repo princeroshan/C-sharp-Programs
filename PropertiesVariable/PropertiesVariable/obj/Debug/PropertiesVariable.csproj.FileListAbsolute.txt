@@ -1,0 +1,14 @@
+D:\C#Programs\PropertiesVariable\PropertiesVariable\bin\Debug\PropertiesVariable.exe.config
+D:\C#Programs\PropertiesVariable\PropertiesVariable\bin\Debug\PropertiesVariable.exe
+D:\C#Programs\PropertiesVariable\PropertiesVariable\bin\Debug\PropertiesVariable.pdb
+D:\C#Programs\PropertiesVariable\PropertiesVariable\obj\Debug\PropertiesVariable.csproj.CoreCompileInputs.cache
+D:\C#Programs\PropertiesVariable\PropertiesVariable\obj\Debug\PropertiesVariable.exe
+D:\C#Programs\PropertiesVariable\PropertiesVariable\obj\Debug\PropertiesVariable.pdb
+D:\C#Programs\PropertiesVariable\PropertiesVariable\obj\Debug\PropertiesVariable.csprojAssemblyReference.cache
+E:\C#Programs\PropertiesVariable\PropertiesVariable\obj\Debug\PropertiesVariable.csprojAssemblyReference.cache
+E:\C#Programs\PropertiesVariable\PropertiesVariable\obj\Debug\PropertiesVariable.csproj.CoreCompileInputs.cache
+E:\C#Programs\PropertiesVariable\PropertiesVariable\obj\Debug\PropertiesVariable.exe
+E:\C#Programs\PropertiesVariable\PropertiesVariable\obj\Debug\PropertiesVariable.pdb
+E:\C#Programs\PropertiesVariable\PropertiesVariable\bin\Debug\PropertiesVariable.exe.config
+E:\C#Programs\PropertiesVariable\PropertiesVariable\bin\Debug\PropertiesVariable.exe
+E:\C#Programs\PropertiesVariable\PropertiesVariable\bin\Debug\PropertiesVariable.pdb

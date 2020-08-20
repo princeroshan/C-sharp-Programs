@@ -1,0 +1,7 @@
+C:\Users\princ\source\repos\PublicAccessModifier\PublicAccessModifier\bin\Debug\PublicAccessModifier.exe.config
+C:\Users\princ\source\repos\PublicAccessModifier\PublicAccessModifier\bin\Debug\PublicAccessModifier.exe
+C:\Users\princ\source\repos\PublicAccessModifier\PublicAccessModifier\bin\Debug\PublicAccessModifier.pdb
+C:\Users\princ\source\repos\PublicAccessModifier\PublicAccessModifier\obj\Debug\PublicAccessModifier.csprojAssemblyReference.cache
+C:\Users\princ\source\repos\PublicAccessModifier\PublicAccessModifier\obj\Debug\PublicAccessModifier.csproj.CoreCompileInputs.cache
+C:\Users\princ\source\repos\PublicAccessModifier\PublicAccessModifier\obj\Debug\PublicAccessModifier.exe
+C:\Users\princ\source\repos\PublicAccessModifier\PublicAccessModifier\obj\Debug\PublicAccessModifier.pdb
