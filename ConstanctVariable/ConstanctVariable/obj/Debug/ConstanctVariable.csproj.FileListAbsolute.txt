@@ -1,0 +1,14 @@
+D:\C#Programs\ConstanctVariable\ConstanctVariable\bin\Debug\ConstanctVariable.exe.config
+D:\C#Programs\ConstanctVariable\ConstanctVariable\bin\Debug\ConstanctVariable.exe
+D:\C#Programs\ConstanctVariable\ConstanctVariable\bin\Debug\ConstanctVariable.pdb
+D:\C#Programs\ConstanctVariable\ConstanctVariable\obj\Debug\ConstanctVariable.csproj.CoreCompileInputs.cache
+D:\C#Programs\ConstanctVariable\ConstanctVariable\obj\Debug\ConstanctVariable.exe
+D:\C#Programs\ConstanctVariable\ConstanctVariable\obj\Debug\ConstanctVariable.pdb
+D:\C#Programs\ConstanctVariable\ConstanctVariable\obj\Debug\ConstanctVariable.csprojAssemblyReference.cache
+E:\C#Programs\ConstanctVariable\ConstanctVariable\bin\Debug\ConstanctVariable.exe.config
+E:\C#Programs\ConstanctVariable\ConstanctVariable\bin\Debug\ConstanctVariable.exe
+E:\C#Programs\ConstanctVariable\ConstanctVariable\bin\Debug\ConstanctVariable.pdb
+E:\C#Programs\ConstanctVariable\ConstanctVariable\obj\Debug\ConstanctVariable.csprojAssemblyReference.cache
+E:\C#Programs\ConstanctVariable\ConstanctVariable\obj\Debug\ConstanctVariable.csproj.CoreCompileInputs.cache
+E:\C#Programs\ConstanctVariable\ConstanctVariable\obj\Debug\ConstanctVariable.exe
+E:\C#Programs\ConstanctVariable\ConstanctVariable\obj\Debug\ConstanctVariable.pdb

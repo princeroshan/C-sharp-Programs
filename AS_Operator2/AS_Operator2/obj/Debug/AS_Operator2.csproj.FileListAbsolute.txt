@@ -1,0 +1,6 @@
+E:\C#Programs\AS_Operator2\AS_Operator2\obj\Debug\AS_Operator2.csproj.CoreCompileInputs.cache
+E:\C#Programs\AS_Operator2\AS_Operator2\bin\Debug\AS_Operator2.exe.config
+E:\C#Programs\AS_Operator2\AS_Operator2\bin\Debug\AS_Operator2.exe
+E:\C#Programs\AS_Operator2\AS_Operator2\bin\Debug\AS_Operator2.pdb
+E:\C#Programs\AS_Operator2\AS_Operator2\obj\Debug\AS_Operator2.exe
+E:\C#Programs\AS_Operator2\AS_Operator2\obj\Debug\AS_Operator2.pdb

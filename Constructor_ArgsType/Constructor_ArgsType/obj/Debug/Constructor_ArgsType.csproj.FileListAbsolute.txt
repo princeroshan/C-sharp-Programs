@@ -1,0 +1,7 @@
+E:\C#Programs\Constructor_ArgsType\Constructor_ArgsType\bin\Debug\Constructor_ArgsType.exe.config
+E:\C#Programs\Constructor_ArgsType\Constructor_ArgsType\bin\Debug\Constructor_ArgsType.exe
+E:\C#Programs\Constructor_ArgsType\Constructor_ArgsType\bin\Debug\Constructor_ArgsType.pdb
+E:\C#Programs\Constructor_ArgsType\Constructor_ArgsType\obj\Debug\Constructor_ArgsType.csprojAssemblyReference.cache
+E:\C#Programs\Constructor_ArgsType\Constructor_ArgsType\obj\Debug\Constructor_ArgsType.csproj.CoreCompileInputs.cache
+E:\C#Programs\Constructor_ArgsType\Constructor_ArgsType\obj\Debug\Constructor_ArgsType.exe
+E:\C#Programs\Constructor_ArgsType\Constructor_ArgsType\obj\Debug\Constructor_ArgsType.pdb

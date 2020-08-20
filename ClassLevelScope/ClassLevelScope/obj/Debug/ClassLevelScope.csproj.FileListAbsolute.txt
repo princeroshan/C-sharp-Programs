@@ -1,0 +1,7 @@
+C:\Users\princ\source\repos\ClassLevelScope\ClassLevelScope\bin\Debug\ClassLevelScope.exe.config
+C:\Users\princ\source\repos\ClassLevelScope\ClassLevelScope\bin\Debug\ClassLevelScope.exe
+C:\Users\princ\source\repos\ClassLevelScope\ClassLevelScope\bin\Debug\ClassLevelScope.pdb
+C:\Users\princ\source\repos\ClassLevelScope\ClassLevelScope\obj\Debug\ClassLevelScope.csprojAssemblyReference.cache
+C:\Users\princ\source\repos\ClassLevelScope\ClassLevelScope\obj\Debug\ClassLevelScope.csproj.CoreCompileInputs.cache
+C:\Users\princ\source\repos\ClassLevelScope\ClassLevelScope\obj\Debug\ClassLevelScope.exe
+C:\Users\princ\source\repos\ClassLevelScope\ClassLevelScope\obj\Debug\ClassLevelScope.pdb

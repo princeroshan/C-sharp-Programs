@@ -1,0 +1,6 @@
+D:\C#Programs\ByteDataType\ByteDataType\obj\Debug\ByteDataType.csproj.CoreCompileInputs.cache
+D:\C#Programs\ByteDataType\ByteDataType\bin\Debug\ByteDataType.exe.config
+D:\C#Programs\ByteDataType\ByteDataType\bin\Debug\ByteDataType.exe
+D:\C#Programs\ByteDataType\ByteDataType\bin\Debug\ByteDataType.pdb
+D:\C#Programs\ByteDataType\ByteDataType\obj\Debug\ByteDataType.exe
+D:\C#Programs\ByteDataType\ByteDataType\obj\Debug\ByteDataType.pdb
