@@ -1,0 +1,7 @@
+D:\C#Programs\VariableInitializationType\VariableInitializationType\bin\Debug\VariableInitializationType.exe.config
+D:\C#Programs\VariableInitializationType\VariableInitializationType\bin\Debug\VariableInitializationType.exe
+D:\C#Programs\VariableInitializationType\VariableInitializationType\bin\Debug\VariableInitializationType.pdb
+D:\C#Programs\VariableInitializationType\VariableInitializationType\obj\Debug\VariableInitializationType.csprojAssemblyReference.cache
+D:\C#Programs\VariableInitializationType\VariableInitializationType\obj\Debug\VariableInitializationType.csproj.CoreCompileInputs.cache
+D:\C#Programs\VariableInitializationType\VariableInitializationType\obj\Debug\VariableInitializationType.exe
+D:\C#Programs\VariableInitializationType\VariableInitializationType\obj\Debug\VariableInitializationType.pdb

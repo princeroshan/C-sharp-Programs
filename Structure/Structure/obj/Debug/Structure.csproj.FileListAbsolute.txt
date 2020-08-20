@@ -1,0 +1,7 @@
+D:\C#Programs\Structure\Structure\bin\Debug\Structure.exe.config
+D:\C#Programs\Structure\Structure\bin\Debug\Structure.exe
+D:\C#Programs\Structure\Structure\bin\Debug\Structure.pdb
+D:\C#Programs\Structure\Structure\obj\Debug\Structure.csprojAssemblyReference.cache
+D:\C#Programs\Structure\Structure\obj\Debug\Structure.csproj.CoreCompileInputs.cache
+D:\C#Programs\Structure\Structure\obj\Debug\Structure.exe
+D:\C#Programs\Structure\Structure\obj\Debug\Structure.pdb

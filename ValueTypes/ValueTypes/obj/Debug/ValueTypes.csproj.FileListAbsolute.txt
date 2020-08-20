@@ -1,0 +1,6 @@
+D:\C#Materials\ValueTypes\ValueTypes\bin\Debug\ValueTypes.exe.config
+D:\C#Materials\ValueTypes\ValueTypes\bin\Debug\ValueTypes.exe
+D:\C#Materials\ValueTypes\ValueTypes\bin\Debug\ValueTypes.pdb
+D:\C#Materials\ValueTypes\ValueTypes\obj\Debug\ValueTypes.csproj.CoreCompileInputs.cache
+D:\C#Materials\ValueTypes\ValueTypes\obj\Debug\ValueTypes.exe
+D:\C#Materials\ValueTypes\ValueTypes\obj\Debug\ValueTypes.pdb

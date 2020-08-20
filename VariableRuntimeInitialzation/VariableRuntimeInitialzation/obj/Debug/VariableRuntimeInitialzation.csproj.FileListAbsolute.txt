@@ -1,0 +1,6 @@
+D:\C#Programs\VariableRuntimeInitialzation\VariableRuntimeInitialzation\bin\Debug\VariableRuntimeInitialzation.exe.config
+D:\C#Programs\VariableRuntimeInitialzation\VariableRuntimeInitialzation\bin\Debug\VariableRuntimeInitialzation.exe
+D:\C#Programs\VariableRuntimeInitialzation\VariableRuntimeInitialzation\bin\Debug\VariableRuntimeInitialzation.pdb
+D:\C#Programs\VariableRuntimeInitialzation\VariableRuntimeInitialzation\obj\Debug\VariableRuntimeInitialzation.csproj.CoreCompileInputs.cache
+D:\C#Programs\VariableRuntimeInitialzation\VariableRuntimeInitialzation\obj\Debug\VariableRuntimeInitialzation.exe
+D:\C#Programs\VariableRuntimeInitialzation\VariableRuntimeInitialzation\obj\Debug\VariableRuntimeInitialzation.pdb
