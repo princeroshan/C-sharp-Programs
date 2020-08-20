@@ -1,0 +1,7 @@
+E:\C#Programs\for_loop_pattern\for_loop_pattern\bin\Debug\for_loop_pattern.exe.config
+E:\C#Programs\for_loop_pattern\for_loop_pattern\bin\Debug\for_loop_pattern.exe
+E:\C#Programs\for_loop_pattern\for_loop_pattern\bin\Debug\for_loop_pattern.pdb
+E:\C#Programs\for_loop_pattern\for_loop_pattern\obj\Debug\for_loop_pattern.csprojAssemblyReference.cache
+E:\C#Programs\for_loop_pattern\for_loop_pattern\obj\Debug\for_loop_pattern.csproj.CoreCompileInputs.cache
+E:\C#Programs\for_loop_pattern\for_loop_pattern\obj\Debug\for_loop_pattern.exe
+E:\C#Programs\for_loop_pattern\for_loop_pattern\obj\Debug\for_loop_pattern.pdb

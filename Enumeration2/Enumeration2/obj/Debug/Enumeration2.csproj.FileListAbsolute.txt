@@ -1,0 +1,6 @@
+D:\C#Programs\Enumeration2\Enumeration2\bin\Debug\Enumeration2.exe.config
+D:\C#Programs\Enumeration2\Enumeration2\bin\Debug\Enumeration2.exe
+D:\C#Programs\Enumeration2\Enumeration2\bin\Debug\Enumeration2.pdb
+D:\C#Programs\Enumeration2\Enumeration2\obj\Debug\Enumeration2.csproj.CoreCompileInputs.cache
+D:\C#Programs\Enumeration2\Enumeration2\obj\Debug\Enumeration2.exe
+D:\C#Programs\Enumeration2\Enumeration2\obj\Debug\Enumeration2.pdb
