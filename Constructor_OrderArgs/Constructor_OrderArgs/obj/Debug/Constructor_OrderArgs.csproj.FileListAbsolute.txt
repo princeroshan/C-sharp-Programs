@@ -1,0 +1,6 @@
+C:\Users\princ\source\repos\Constructor_OrderArgs\Constructor_OrderArgs\bin\Debug\Constructor_OrderArgs.exe.config
+C:\Users\princ\source\repos\Constructor_OrderArgs\Constructor_OrderArgs\bin\Debug\Constructor_OrderArgs.exe
+C:\Users\princ\source\repos\Constructor_OrderArgs\Constructor_OrderArgs\bin\Debug\Constructor_OrderArgs.pdb
+C:\Users\princ\source\repos\Constructor_OrderArgs\Constructor_OrderArgs\obj\Debug\Constructor_OrderArgs.csproj.CoreCompileInputs.cache
+C:\Users\princ\source\repos\Constructor_OrderArgs\Constructor_OrderArgs\obj\Debug\Constructor_OrderArgs.exe
+C:\Users\princ\source\repos\Constructor_OrderArgs\Constructor_OrderArgs\obj\Debug\Constructor_OrderArgs.pdb
