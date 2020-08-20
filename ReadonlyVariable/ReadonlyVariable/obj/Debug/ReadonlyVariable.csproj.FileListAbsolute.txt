@@ -1,0 +1,7 @@
+D:\C#Programs\ReadonlyVariable\ReadonlyVariable\bin\Debug\ReadonlyVariable.exe.config
+D:\C#Programs\ReadonlyVariable\ReadonlyVariable\bin\Debug\ReadonlyVariable.exe
+D:\C#Programs\ReadonlyVariable\ReadonlyVariable\bin\Debug\ReadonlyVariable.pdb
+D:\C#Programs\ReadonlyVariable\ReadonlyVariable\obj\Debug\ReadonlyVariable.csproj.CoreCompileInputs.cache
+D:\C#Programs\ReadonlyVariable\ReadonlyVariable\obj\Debug\ReadonlyVariable.exe
+D:\C#Programs\ReadonlyVariable\ReadonlyVariable\obj\Debug\ReadonlyVariable.pdb
+D:\C#Programs\ReadonlyVariable\ReadonlyVariable\obj\Debug\ReadonlyVariable.csprojAssemblyReference.cache

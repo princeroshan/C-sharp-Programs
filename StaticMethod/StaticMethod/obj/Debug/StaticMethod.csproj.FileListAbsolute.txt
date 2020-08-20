@@ -1,0 +1,7 @@
+E:\C#Programs\StaticMethod\StaticMethod\bin\Debug\StaticMethod.exe.config
+E:\C#Programs\StaticMethod\StaticMethod\bin\Debug\StaticMethod.exe
+E:\C#Programs\StaticMethod\StaticMethod\bin\Debug\StaticMethod.pdb
+E:\C#Programs\StaticMethod\StaticMethod\obj\Debug\StaticMethod.csproj.CoreCompileInputs.cache
+E:\C#Programs\StaticMethod\StaticMethod\obj\Debug\StaticMethod.exe
+E:\C#Programs\StaticMethod\StaticMethod\obj\Debug\StaticMethod.pdb
+E:\C#Programs\StaticMethod\StaticMethod\obj\Debug\StaticMethod.csprojAssemblyReference.cache

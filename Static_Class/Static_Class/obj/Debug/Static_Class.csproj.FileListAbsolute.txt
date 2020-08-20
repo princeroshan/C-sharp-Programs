@@ -1,0 +1,7 @@
+E:\C#Programs\Static_Class\Static_Class\bin\Debug\Static_Class.exe.config
+E:\C#Programs\Static_Class\Static_Class\bin\Debug\Static_Class.exe
+E:\C#Programs\Static_Class\Static_Class\bin\Debug\Static_Class.pdb
+E:\C#Programs\Static_Class\Static_Class\obj\Debug\Static_Class.csprojAssemblyReference.cache
+E:\C#Programs\Static_Class\Static_Class\obj\Debug\Static_Class.csproj.CoreCompileInputs.cache
+E:\C#Programs\Static_Class\Static_Class\obj\Debug\Static_Class.exe
+E:\C#Programs\Static_Class\Static_Class\obj\Debug\Static_Class.pdb

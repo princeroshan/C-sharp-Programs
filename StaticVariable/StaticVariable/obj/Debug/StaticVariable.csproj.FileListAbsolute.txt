@@ -1,0 +1,13 @@
+D:\C#Programs\StaticVariable\StaticVariable\bin\Debug\StaticVariable.exe.config
+D:\C#Programs\StaticVariable\StaticVariable\bin\Debug\StaticVariable.exe
+D:\C#Programs\StaticVariable\StaticVariable\bin\Debug\StaticVariable.pdb
+D:\C#Programs\StaticVariable\StaticVariable\obj\Debug\StaticVariable.csproj.CoreCompileInputs.cache
+D:\C#Programs\StaticVariable\StaticVariable\obj\Debug\StaticVariable.exe
+D:\C#Programs\StaticVariable\StaticVariable\obj\Debug\StaticVariable.pdb
+E:\C#Programs\StaticVariable\StaticVariable\obj\Debug\StaticVariable.csproj.CoreCompileInputs.cache
+E:\C#Programs\StaticVariable\StaticVariable\obj\Debug\StaticVariable.exe
+E:\C#Programs\StaticVariable\StaticVariable\obj\Debug\StaticVariable.pdb
+E:\C#Programs\StaticVariable\StaticVariable\bin\Debug\StaticVariable.exe.config
+E:\C#Programs\StaticVariable\StaticVariable\bin\Debug\StaticVariable.exe
+E:\C#Programs\StaticVariable\StaticVariable\bin\Debug\StaticVariable.pdb
+E:\C#Programs\StaticVariable\StaticVariable\obj\Debug\StaticVariable.csprojAssemblyReference.cache

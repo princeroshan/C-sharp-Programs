@@ -1,0 +1,6 @@
+D:\C#Programs\ReferenceType\ReferenceType\bin\Debug\ReferenceType.exe.config
+D:\C#Programs\ReferenceType\ReferenceType\bin\Debug\ReferenceType.exe
+D:\C#Programs\ReferenceType\ReferenceType\bin\Debug\ReferenceType.pdb
+D:\C#Programs\ReferenceType\ReferenceType\obj\Debug\ReferenceType.csproj.CoreCompileInputs.cache
+D:\C#Programs\ReferenceType\ReferenceType\obj\Debug\ReferenceType.exe
+D:\C#Programs\ReferenceType\ReferenceType\obj\Debug\ReferenceType.pdb
