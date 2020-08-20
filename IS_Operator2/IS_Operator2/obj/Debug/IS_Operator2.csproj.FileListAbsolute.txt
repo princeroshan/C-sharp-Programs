@@ -1,0 +1,7 @@
+E:\C#Programs\IS_Operator2\IS_Operator2\bin\Debug\IS_Operator2.exe.config
+E:\C#Programs\IS_Operator2\IS_Operator2\bin\Debug\IS_Operator2.exe
+E:\C#Programs\IS_Operator2\IS_Operator2\bin\Debug\IS_Operator2.pdb
+E:\C#Programs\IS_Operator2\IS_Operator2\obj\Debug\IS_Operator2.csprojAssemblyReference.cache
+E:\C#Programs\IS_Operator2\IS_Operator2\obj\Debug\IS_Operator2.csproj.CoreCompileInputs.cache
+E:\C#Programs\IS_Operator2\IS_Operator2\obj\Debug\IS_Operator2.exe
+E:\C#Programs\IS_Operator2\IS_Operator2\obj\Debug\IS_Operator2.pdb

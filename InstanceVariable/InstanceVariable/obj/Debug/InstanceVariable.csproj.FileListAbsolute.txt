@@ -1,0 +1,7 @@
+D:\C#Programs\InstanceVariable\InstanceVariable\bin\Debug\InstanceVariable.exe.config
+D:\C#Programs\InstanceVariable\InstanceVariable\bin\Debug\InstanceVariable.exe
+D:\C#Programs\InstanceVariable\InstanceVariable\bin\Debug\InstanceVariable.pdb
+D:\C#Programs\InstanceVariable\InstanceVariable\obj\Debug\InstanceVariable.csprojAssemblyReference.cache
+D:\C#Programs\InstanceVariable\InstanceVariable\obj\Debug\InstanceVariable.csproj.CoreCompileInputs.cache
+D:\C#Programs\InstanceVariable\InstanceVariable\obj\Debug\InstanceVariable.exe
+D:\C#Programs\InstanceVariable\InstanceVariable\obj\Debug\InstanceVariable.pdb

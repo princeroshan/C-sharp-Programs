@@ -1,0 +1,13 @@
+C:\Users\princ\source\repos\InternalAccessModifier\InternalAccessModifier\bin\Debug\InternalAccessModifier.exe.config
+C:\Users\princ\source\repos\InternalAccessModifier\InternalAccessModifier\bin\Debug\InternalAccessModifier.exe
+C:\Users\princ\source\repos\InternalAccessModifier\InternalAccessModifier\bin\Debug\InternalAccessModifier.pdb
+C:\Users\princ\source\repos\InternalAccessModifier\InternalAccessModifier\obj\Debug\InternalAccessModifier.csproj.CoreCompileInputs.cache
+C:\Users\princ\source\repos\InternalAccessModifier\InternalAccessModifier\obj\Debug\InternalAccessModifier.exe
+C:\Users\princ\source\repos\InternalAccessModifier\InternalAccessModifier\obj\Debug\InternalAccessModifier.pdb
+D:\C#Programs\InternalAccessModifier\InternalAccessModifier\bin\Debug\InternalAccessModifier.exe.config
+D:\C#Programs\InternalAccessModifier\InternalAccessModifier\bin\Debug\InternalAccessModifier.exe
+D:\C#Programs\InternalAccessModifier\InternalAccessModifier\bin\Debug\InternalAccessModifier.pdb
+D:\C#Programs\InternalAccessModifier\InternalAccessModifier\obj\Debug\InternalAccessModifier.csprojAssemblyReference.cache
+D:\C#Programs\InternalAccessModifier\InternalAccessModifier\obj\Debug\InternalAccessModifier.csproj.CoreCompileInputs.cache
+D:\C#Programs\InternalAccessModifier\InternalAccessModifier\obj\Debug\InternalAccessModifier.exe
+D:\C#Programs\InternalAccessModifier\InternalAccessModifier\obj\Debug\InternalAccessModifier.pdb

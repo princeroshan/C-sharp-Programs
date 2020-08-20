@@ -1,0 +1,6 @@
+E:\C#Programs\IS_Operator\IS_Operator\bin\Debug\IS_Operator.exe.config
+E:\C#Programs\IS_Operator\IS_Operator\bin\Debug\IS_Operator.exe
+E:\C#Programs\IS_Operator\IS_Operator\bin\Debug\IS_Operator.pdb
+E:\C#Programs\IS_Operator\IS_Operator\obj\Debug\IS_Operator.csproj.CoreCompileInputs.cache
+E:\C#Programs\IS_Operator\IS_Operator\obj\Debug\IS_Operator.exe
+E:\C#Programs\IS_Operator\IS_Operator\obj\Debug\IS_Operator.pdb
