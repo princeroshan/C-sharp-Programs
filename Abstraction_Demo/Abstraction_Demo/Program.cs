@@ -10,6 +10,14 @@ namespace Abstraction_Demo
     abstract class Shape
     {
         public abstract int Area();
+        public void Method1()
+        {
+            Console.WriteLine("Non Abstract Method1 Called");
+        }
+        public void Method2()
+        {
+            Console.WriteLine("Non Abstract Method2 Called");
+        }
     }
     class Square:Shape
     {
@@ -22,6 +30,7 @@ namespace Abstraction_Demo
         // class using the override keyword 
         public override int Area()
         {
+            Method1();
             Console.WriteLine("Area of Square :");
             return side * side;
         }
@@ -33,6 +42,7 @@ namespace Abstraction_Demo
             // creating reference of Shape class 
             // which refer to Square class instance 
             Shape obj = new Square(4);
+            obj.Method2();
             double res =obj.Area();
             Console.WriteLine(res);
             Console.ReadKey();
