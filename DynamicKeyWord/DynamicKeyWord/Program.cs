@@ -8,14 +8,15 @@ namespace DynamicKeyWord
 {
     class Program
     {
-        static void Main() //when passing command line argument use string[] args
+        public static void Main() //when passing command line argument use string[] args
         {
-            addStr("Prince", "Roshan");
-            addStr(1, 2);
-            addStr(10.25, 5);
-            addStr("Prince", 2);
-            addStr("Prince", false);
-            //addStr(5, false); it will give unhandled exception
+            Program obj = new Program();
+            obj.addStr("Prince", "Roshan");
+            obj.addStr(1, 2);
+            obj.addStr(10.25, 5);
+            obj.addStr("Prince", 2);
+            obj.addStr("Prince", false);
+            obj.addStr(5, false); //it will give unhandled exception
 
             // Dynamic variables 
         dynamic value1 = "GeeksforGeeks"; //Type string
@@ -38,7 +39,7 @@ namespace DynamicKeyWord
         Console.WriteLine("Get the actual type of value4: {0}",  
                                   value4.GetType().ToString());
         }
-        public static void addStr(dynamic p1, dynamic p2)
+        public void addStr(dynamic p1, dynamic p2)
         {
             Console.WriteLine(p1+p2);
             Console.ReadKey();

@@ -12,3 +12,10 @@ D:\C#Programs\DynamicKeyWord\DynamicKeyWord\obj\Debug\DynamicKeyWord.csprojAssem
 D:\C#Programs\DynamicKeyWord\DynamicKeyWord\obj\Debug\DynamicKeyWord.csproj.CoreCompileInputs.cache
 D:\C#Programs\DynamicKeyWord\DynamicKeyWord\obj\Debug\DynamicKeyWord.exe
 D:\C#Programs\DynamicKeyWord\DynamicKeyWord\obj\Debug\DynamicKeyWord.pdb
+E:\C#Programs\C-sharp-Programs\DynamicKeyWord\DynamicKeyWord\obj\Debug\DynamicKeyWord.csprojAssemblyReference.cache
+E:\C#Programs\C-sharp-Programs\DynamicKeyWord\DynamicKeyWord\obj\Debug\DynamicKeyWord.csproj.CoreCompileInputs.cache
+E:\C#Programs\C-sharp-Programs\DynamicKeyWord\DynamicKeyWord\obj\Debug\DynamicKeyWord.exe
+E:\C#Programs\C-sharp-Programs\DynamicKeyWord\DynamicKeyWord\obj\Debug\DynamicKeyWord.pdb
+E:\C#Programs\C-sharp-Programs\DynamicKeyWord\DynamicKeyWord\bin\Debug\DynamicKeyWord.exe.config
+E:\C#Programs\C-sharp-Programs\DynamicKeyWord\DynamicKeyWord\bin\Debug\DynamicKeyWord.exe
+E:\C#Programs\C-sharp-Programs\DynamicKeyWord\DynamicKeyWord\bin\Debug\DynamicKeyWord.pdb
