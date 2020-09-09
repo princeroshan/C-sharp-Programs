@@ -29,10 +29,12 @@ namespace ParamsDemo
         //object type
         public void result(params object[] array)
         {
-            for(int k=0;k<array.Length;k++)
+            Console.WriteLine("Object Type:");
+            for (int k=0;k<array.Length;k++)
             {
-                Console.WriteLine("Object Type:"+array[k]);
+                Console.Write(array[k]+" ");
             }
+            Console.WriteLine();
         }
         public static void Main(string[] args)
         {

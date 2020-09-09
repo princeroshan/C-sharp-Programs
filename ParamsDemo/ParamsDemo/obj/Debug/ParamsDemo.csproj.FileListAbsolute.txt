@@ -12,3 +12,10 @@ E:\C#Programs\ParamsDemo\ParamsDemo\obj\Debug\ParamsDemo.pdb
 E:\C#Programs\ParamsDemo\ParamsDemo\bin\Debug\ParamsDemo.exe.config
 E:\C#Programs\ParamsDemo\ParamsDemo\bin\Debug\ParamsDemo.exe
 E:\C#Programs\ParamsDemo\ParamsDemo\bin\Debug\ParamsDemo.pdb
+E:\C#Programs\C-sharp-Programs\ParamsDemo\ParamsDemo\bin\Debug\ParamsDemo.exe.config
+E:\C#Programs\C-sharp-Programs\ParamsDemo\ParamsDemo\bin\Debug\ParamsDemo.exe
+E:\C#Programs\C-sharp-Programs\ParamsDemo\ParamsDemo\bin\Debug\ParamsDemo.pdb
+E:\C#Programs\C-sharp-Programs\ParamsDemo\ParamsDemo\obj\Debug\ParamsDemo.csprojAssemblyReference.cache
+E:\C#Programs\C-sharp-Programs\ParamsDemo\ParamsDemo\obj\Debug\ParamsDemo.csproj.CoreCompileInputs.cache
+E:\C#Programs\C-sharp-Programs\ParamsDemo\ParamsDemo\obj\Debug\ParamsDemo.exe
+E:\C#Programs\C-sharp-Programs\ParamsDemo\ParamsDemo\obj\Debug\ParamsDemo.pdb
