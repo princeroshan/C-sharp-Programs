@@ -5,3 +5,10 @@ D:\C#Programs\ReadonlyVariable\ReadonlyVariable\obj\Debug\ReadonlyVariable.cspro
 D:\C#Programs\ReadonlyVariable\ReadonlyVariable\obj\Debug\ReadonlyVariable.exe
 D:\C#Programs\ReadonlyVariable\ReadonlyVariable\obj\Debug\ReadonlyVariable.pdb
 D:\C#Programs\ReadonlyVariable\ReadonlyVariable\obj\Debug\ReadonlyVariable.csprojAssemblyReference.cache
+E:\C#Programs\C-sharp-Programs\ReadonlyVariable\ReadonlyVariable\bin\Debug\ReadonlyVariable.exe.config
+E:\C#Programs\C-sharp-Programs\ReadonlyVariable\ReadonlyVariable\bin\Debug\ReadonlyVariable.exe
+E:\C#Programs\C-sharp-Programs\ReadonlyVariable\ReadonlyVariable\bin\Debug\ReadonlyVariable.pdb
+E:\C#Programs\C-sharp-Programs\ReadonlyVariable\ReadonlyVariable\obj\Debug\ReadonlyVariable.csprojAssemblyReference.cache
+E:\C#Programs\C-sharp-Programs\ReadonlyVariable\ReadonlyVariable\obj\Debug\ReadonlyVariable.csproj.CoreCompileInputs.cache
+E:\C#Programs\C-sharp-Programs\ReadonlyVariable\ReadonlyVariable\obj\Debug\ReadonlyVariable.exe
+E:\C#Programs\C-sharp-Programs\ReadonlyVariable\ReadonlyVariable\obj\Debug\ReadonlyVariable.pdb

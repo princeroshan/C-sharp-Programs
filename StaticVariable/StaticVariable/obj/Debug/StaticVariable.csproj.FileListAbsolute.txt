@@ -11,3 +11,10 @@ E:\C#Programs\StaticVariable\StaticVariable\bin\Debug\StaticVariable.exe.config
 E:\C#Programs\StaticVariable\StaticVariable\bin\Debug\StaticVariable.exe
 E:\C#Programs\StaticVariable\StaticVariable\bin\Debug\StaticVariable.pdb
 E:\C#Programs\StaticVariable\StaticVariable\obj\Debug\StaticVariable.csprojAssemblyReference.cache
+E:\C#Programs\C-sharp-Programs\StaticVariable\StaticVariable\bin\Debug\StaticVariable.exe.config
+E:\C#Programs\C-sharp-Programs\StaticVariable\StaticVariable\bin\Debug\StaticVariable.exe
+E:\C#Programs\C-sharp-Programs\StaticVariable\StaticVariable\bin\Debug\StaticVariable.pdb
+E:\C#Programs\C-sharp-Programs\StaticVariable\StaticVariable\obj\Debug\StaticVariable.csprojAssemblyReference.cache
+E:\C#Programs\C-sharp-Programs\StaticVariable\StaticVariable\obj\Debug\StaticVariable.csproj.CoreCompileInputs.cache
+E:\C#Programs\C-sharp-Programs\StaticVariable\StaticVariable\obj\Debug\StaticVariable.exe
+E:\C#Programs\C-sharp-Programs\StaticVariable\StaticVariable\obj\Debug\StaticVariable.pdb
