@@ -14,8 +14,9 @@ namespace Nested_Class
         public void method1()
         {
             Console.WriteLine("Outer class method");
+            //Calling static method in outer class
+            //Inner_class.method3();
         }
-
         // Inner class 
         public class Inner_class
         {
