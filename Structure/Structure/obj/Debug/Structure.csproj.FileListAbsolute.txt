@@ -5,3 +5,10 @@ D:\C#Programs\Structure\Structure\obj\Debug\Structure.csprojAssemblyReference.ca
 D:\C#Programs\Structure\Structure\obj\Debug\Structure.csproj.CoreCompileInputs.cache
 D:\C#Programs\Structure\Structure\obj\Debug\Structure.exe
 D:\C#Programs\Structure\Structure\obj\Debug\Structure.pdb
+E:\C#Programs\C-sharp-Programs\Structure\Structure\bin\Debug\Structure.exe.config
+E:\C#Programs\C-sharp-Programs\Structure\Structure\bin\Debug\Structure.exe
+E:\C#Programs\C-sharp-Programs\Structure\Structure\bin\Debug\Structure.pdb
+E:\C#Programs\C-sharp-Programs\Structure\Structure\obj\Debug\Structure.csprojAssemblyReference.cache
+E:\C#Programs\C-sharp-Programs\Structure\Structure\obj\Debug\Structure.csproj.CoreCompileInputs.cache
+E:\C#Programs\C-sharp-Programs\Structure\Structure\obj\Debug\Structure.exe
+E:\C#Programs\C-sharp-Programs\Structure\Structure\obj\Debug\Structure.pdb

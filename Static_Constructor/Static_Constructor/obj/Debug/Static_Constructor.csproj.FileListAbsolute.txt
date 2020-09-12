@@ -4,3 +4,10 @@ E:\C#Programs\Static_Constructor\Static_Constructor\bin\Debug\Static_Constructor
 E:\C#Programs\Static_Constructor\Static_Constructor\obj\Debug\Static_Constructor.csproj.CoreCompileInputs.cache
 E:\C#Programs\Static_Constructor\Static_Constructor\obj\Debug\Static_Constructor.exe
 E:\C#Programs\Static_Constructor\Static_Constructor\obj\Debug\Static_Constructor.pdb
+E:\C#Programs\C-sharp-Programs\Static_Constructor\Static_Constructor\bin\Debug\Static_Constructor.exe.config
+E:\C#Programs\C-sharp-Programs\Static_Constructor\Static_Constructor\bin\Debug\Static_Constructor.exe
+E:\C#Programs\C-sharp-Programs\Static_Constructor\Static_Constructor\bin\Debug\Static_Constructor.pdb
+E:\C#Programs\C-sharp-Programs\Static_Constructor\Static_Constructor\obj\Debug\Static_Constructor.csprojAssemblyReference.cache
+E:\C#Programs\C-sharp-Programs\Static_Constructor\Static_Constructor\obj\Debug\Static_Constructor.csproj.CoreCompileInputs.cache
+E:\C#Programs\C-sharp-Programs\Static_Constructor\Static_Constructor\obj\Debug\Static_Constructor.exe
+E:\C#Programs\C-sharp-Programs\Static_Constructor\Static_Constructor\obj\Debug\Static_Constructor.pdb

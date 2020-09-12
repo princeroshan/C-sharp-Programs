@@ -11,7 +11,7 @@ namespace Static_Constructor
         //It is invoked before the first instance constructor is run.
         static Program()
         {
-            Console.WriteLine("Example of Static Constructor");
+            Console.WriteLine("Example of Static Constructor: It should be parameterless constructor");
         }
         //instance constructor
         public Program(int j)
