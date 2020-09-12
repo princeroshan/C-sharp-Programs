@@ -1,0 +1,7 @@
+E:\C#Programs\C-sharp-Programs\Array_ObjectType\Array_ObjectType\bin\Debug\Array_ObjectType.exe.config
+E:\C#Programs\C-sharp-Programs\Array_ObjectType\Array_ObjectType\bin\Debug\Array_ObjectType.exe
+E:\C#Programs\C-sharp-Programs\Array_ObjectType\Array_ObjectType\bin\Debug\Array_ObjectType.pdb
+E:\C#Programs\C-sharp-Programs\Array_ObjectType\Array_ObjectType\obj\Debug\Array_ObjectType.csprojAssemblyReference.cache
+E:\C#Programs\C-sharp-Programs\Array_ObjectType\Array_ObjectType\obj\Debug\Array_ObjectType.csproj.CoreCompileInputs.cache
+E:\C#Programs\C-sharp-Programs\Array_ObjectType\Array_ObjectType\obj\Debug\Array_ObjectType.exe
+E:\C#Programs\C-sharp-Programs\Array_ObjectType\Array_ObjectType\obj\Debug\Array_ObjectType.pdb

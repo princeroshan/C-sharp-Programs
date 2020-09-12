@@ -5,3 +5,10 @@ E:\C#Programs\Switch_Statement\Switch_Statement\obj\Debug\Switch_Statement.cspro
 E:\C#Programs\Switch_Statement\Switch_Statement\obj\Debug\Switch_Statement.csproj.CoreCompileInputs.cache
 E:\C#Programs\Switch_Statement\Switch_Statement\obj\Debug\Switch_Statement.exe
 E:\C#Programs\Switch_Statement\Switch_Statement\obj\Debug\Switch_Statement.pdb
+E:\C#Programs\C-sharp-Programs\Switch_Statement\Switch_Statement\bin\Debug\Switch_Statement.exe.config
+E:\C#Programs\C-sharp-Programs\Switch_Statement\Switch_Statement\bin\Debug\Switch_Statement.exe
+E:\C#Programs\C-sharp-Programs\Switch_Statement\Switch_Statement\bin\Debug\Switch_Statement.pdb
+E:\C#Programs\C-sharp-Programs\Switch_Statement\Switch_Statement\obj\Debug\Switch_Statement.csprojAssemblyReference.cache
+E:\C#Programs\C-sharp-Programs\Switch_Statement\Switch_Statement\obj\Debug\Switch_Statement.csproj.CoreCompileInputs.cache
+E:\C#Programs\C-sharp-Programs\Switch_Statement\Switch_Statement\obj\Debug\Switch_Statement.exe
+E:\C#Programs\C-sharp-Programs\Switch_Statement\Switch_Statement\obj\Debug\Switch_Statement.pdb

@@ -12,7 +12,20 @@ namespace Private_Nested_Class
         //outer class data member
         private int number = 200;
         public int number2 = 300;
-        
+
+        //outer class method
+        public void outerMethod()
+        {
+            Inner_class obj = new Inner_class();
+            //accessing private member of inner class
+            //obj.a2 = 600;  to set a value to 'a'
+            Console.WriteLine("Private Member of Inner Class:" + obj.a2);
+            //when innerMethod is non-static
+            obj.innerMethod2();
+            //when innerMethod is static
+            Outer_class.Inner_class.innerMethod();
+            Console.ReadKey();
+        }
         // Inner class 
         private class Inner_class
         {
@@ -28,23 +41,20 @@ namespace Private_Nested_Class
             public static void innerMethod()
             {
                 Inner_class innerobj1 = new Inner_class();
-                Console.WriteLine("Private Member in static Inner Method :"+ innerobj1.a); //accessing private member in static method
+                //accessing private member in static method
+                Console.WriteLine("Private Member in static Inner Method :"+ innerobj1.a); 
+
                 Outer_class outerobj = new Outer_class();
+                //accessing private member of Outer Class
                 Console.WriteLine("Outer Class Private Member :"+outerobj.number);
                 Console.WriteLine("Outer Class Member :" + outerobj.number2);
             }
+            public void innerMethod2()
+            {
+                Console.WriteLine("Inner non-static Method invoked");
+            }
         }
-        //outer class method
-        public void outerMethod()
-        {
-            Inner_class obj = new Inner_class();
-            //accessing private member of inner class
-            //obj.a2 = 600;  to set a value to 'a'
-            Console.WriteLine("Private Member of Inner Class:"+obj.a2);
-            //obj.innerMethod();//when innerMethod is non-static
-            Inner_class.innerMethod(); //when innerMethod is static
-            Console.ReadKey();
-        }
+        
     }
     class Program
     {
