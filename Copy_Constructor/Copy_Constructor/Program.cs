@@ -32,7 +32,8 @@ namespace Copy_Constructor
         static void Main(string[] args)
         {
             Program obj = new Program("June", 1990);
-            Program obj1 = new Program(obj);//copy variables from other object Program(obj)=Program(Program copycons)
+            //copy variables from other object Program(obj)=Program(Program copycons)
+            Program obj1 = new Program(obj);
             Console.WriteLine(obj1.Details);
             Console.ReadKey();
         }

@@ -5,3 +5,10 @@ D:\C#Programs\InstanceVariable\InstanceVariable\obj\Debug\InstanceVariable.cspro
 D:\C#Programs\InstanceVariable\InstanceVariable\obj\Debug\InstanceVariable.csproj.CoreCompileInputs.cache
 D:\C#Programs\InstanceVariable\InstanceVariable\obj\Debug\InstanceVariable.exe
 D:\C#Programs\InstanceVariable\InstanceVariable\obj\Debug\InstanceVariable.pdb
+E:\C#Programs\C-sharp-Programs\InstanceVariable\InstanceVariable\bin\Debug\InstanceVariable.exe.config
+E:\C#Programs\C-sharp-Programs\InstanceVariable\InstanceVariable\bin\Debug\InstanceVariable.exe
+E:\C#Programs\C-sharp-Programs\InstanceVariable\InstanceVariable\bin\Debug\InstanceVariable.pdb
+E:\C#Programs\C-sharp-Programs\InstanceVariable\InstanceVariable\obj\Debug\InstanceVariable.csprojAssemblyReference.cache
+E:\C#Programs\C-sharp-Programs\InstanceVariable\InstanceVariable\obj\Debug\InstanceVariable.csproj.CoreCompileInputs.cache
+E:\C#Programs\C-sharp-Programs\InstanceVariable\InstanceVariable\obj\Debug\InstanceVariable.exe
+E:\C#Programs\C-sharp-Programs\InstanceVariable\InstanceVariable\obj\Debug\InstanceVariable.pdb

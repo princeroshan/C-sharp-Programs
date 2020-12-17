@@ -12,7 +12,8 @@ namespace InstanceVariable
         string name;
         int age;
         int marks;
-       
+       string msg= "Hii how are you?";
+        string msg1= "Hii I am Fine";
         static void Main(string[] args)
         {
             Program obj1 = new Program();
@@ -31,11 +32,13 @@ namespace InstanceVariable
             Console.WriteLine("First Object Name :" + obj1.name);
             Console.WriteLine("First Object Age :" + obj1.age);
             Console.WriteLine("First Object Marks :" + obj1.marks);
+            Console.WriteLine("First Object Message :" + obj1.msg);
             Console.WriteLine();
 
             Console.WriteLine("Second Object Name :" + obj2.name);
             Console.WriteLine("Second Object Age :" + obj2.age);
             Console.WriteLine("Second Object Marks :" + obj2.marks);
+            Console.WriteLine("Second Object Reply :" + obj2.msg1);
         }
     }
 }

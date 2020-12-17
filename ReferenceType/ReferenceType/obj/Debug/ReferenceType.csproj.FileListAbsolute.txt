@@ -4,3 +4,10 @@ D:\C#Programs\ReferenceType\ReferenceType\bin\Debug\ReferenceType.pdb
 D:\C#Programs\ReferenceType\ReferenceType\obj\Debug\ReferenceType.csproj.CoreCompileInputs.cache
 D:\C#Programs\ReferenceType\ReferenceType\obj\Debug\ReferenceType.exe
 D:\C#Programs\ReferenceType\ReferenceType\obj\Debug\ReferenceType.pdb
+E:\C#Programs\C-sharp-Programs\ReferenceType\ReferenceType\bin\Debug\ReferenceType.exe.config
+E:\C#Programs\C-sharp-Programs\ReferenceType\ReferenceType\bin\Debug\ReferenceType.exe
+E:\C#Programs\C-sharp-Programs\ReferenceType\ReferenceType\bin\Debug\ReferenceType.pdb
+E:\C#Programs\C-sharp-Programs\ReferenceType\ReferenceType\obj\Debug\ReferenceType.csprojAssemblyReference.cache
+E:\C#Programs\C-sharp-Programs\ReferenceType\ReferenceType\obj\Debug\ReferenceType.csproj.CoreCompileInputs.cache
+E:\C#Programs\C-sharp-Programs\ReferenceType\ReferenceType\obj\Debug\ReferenceType.exe
+E:\C#Programs\C-sharp-Programs\ReferenceType\ReferenceType\obj\Debug\ReferenceType.pdb
