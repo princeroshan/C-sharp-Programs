@@ -14,11 +14,16 @@ namespace InstanceVariable
         int marks;
        string msg= "Hii how are you?";
         string msg1= "Hii I am Fine";
+        public void Show()
+        {
+            Console.WriteLine("Non-static Method Instance variable:"+ age);
+        }
+
         static void Main(string[] args)
         {
             Program obj1 = new Program();
             Program obj2 = new Program();
-
+            obj1.Show();
             // first object variable initialization
             obj1.name = "Prince";
             obj1.age = 28;
