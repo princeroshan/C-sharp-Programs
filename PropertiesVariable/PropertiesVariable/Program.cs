@@ -33,7 +33,7 @@ namespace PropertiesVariable
             obj.name = "Prince";
             // calls set accessor of the property Name, and pass "800" as value of the standard field 'value'.
             
-            obj.Marks = 800;
+            obj.Marks = 800; //800 will go to set {value} and change the 500 and return it through get accessors
             Console.WriteLine("Name: " + obj.name);              //Prince
             Console.WriteLine("Roll: " + obj.rn);                //20
             // displays 800, Calls the get accessor of the property Name.

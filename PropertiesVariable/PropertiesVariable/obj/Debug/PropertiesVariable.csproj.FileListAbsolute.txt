@@ -12,3 +12,10 @@ E:\C#Programs\PropertiesVariable\PropertiesVariable\obj\Debug\PropertiesVariable
 E:\C#Programs\PropertiesVariable\PropertiesVariable\bin\Debug\PropertiesVariable.exe.config
 E:\C#Programs\PropertiesVariable\PropertiesVariable\bin\Debug\PropertiesVariable.exe
 E:\C#Programs\PropertiesVariable\PropertiesVariable\bin\Debug\PropertiesVariable.pdb
+E:\C#Programs\C-sharp-Programs\PropertiesVariable\PropertiesVariable\bin\Debug\PropertiesVariable.exe.config
+E:\C#Programs\C-sharp-Programs\PropertiesVariable\PropertiesVariable\bin\Debug\PropertiesVariable.exe
+E:\C#Programs\C-sharp-Programs\PropertiesVariable\PropertiesVariable\bin\Debug\PropertiesVariable.pdb
+E:\C#Programs\C-sharp-Programs\PropertiesVariable\PropertiesVariable\obj\Debug\PropertiesVariable.csprojAssemblyReference.cache
+E:\C#Programs\C-sharp-Programs\PropertiesVariable\PropertiesVariable\obj\Debug\PropertiesVariable.csproj.CoreCompileInputs.cache
+E:\C#Programs\C-sharp-Programs\PropertiesVariable\PropertiesVariable\obj\Debug\PropertiesVariable.exe
+E:\C#Programs\C-sharp-Programs\PropertiesVariable\PropertiesVariable\obj\Debug\PropertiesVariable.pdb

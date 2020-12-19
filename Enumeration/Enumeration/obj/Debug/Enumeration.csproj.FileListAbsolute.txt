@@ -5,3 +5,10 @@ D:\C#Programs\Enumeration\Enumeration\obj\Debug\Enumeration.csprojAssemblyRefere
 D:\C#Programs\Enumeration\Enumeration\obj\Debug\Enumeration.csproj.CoreCompileInputs.cache
 D:\C#Programs\Enumeration\Enumeration\obj\Debug\Enumeration.exe
 D:\C#Programs\Enumeration\Enumeration\obj\Debug\Enumeration.pdb
+E:\C#Programs\C-sharp-Programs\Enumeration\Enumeration\bin\Debug\Enumeration.exe.config
+E:\C#Programs\C-sharp-Programs\Enumeration\Enumeration\bin\Debug\Enumeration.exe
+E:\C#Programs\C-sharp-Programs\Enumeration\Enumeration\bin\Debug\Enumeration.pdb
+E:\C#Programs\C-sharp-Programs\Enumeration\Enumeration\obj\Debug\Enumeration.csprojAssemblyReference.cache
+E:\C#Programs\C-sharp-Programs\Enumeration\Enumeration\obj\Debug\Enumeration.csproj.CoreCompileInputs.cache
+E:\C#Programs\C-sharp-Programs\Enumeration\Enumeration\obj\Debug\Enumeration.exe
+E:\C#Programs\C-sharp-Programs\Enumeration\Enumeration\obj\Debug\Enumeration.pdb
