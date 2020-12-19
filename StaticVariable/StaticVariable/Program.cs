@@ -17,7 +17,9 @@ namespace StaticVariable
         public int add()
         {
             age=age+5; // Now, age=30
+            Console.WriteLine("Static Variable in non-static method are accessible for eg:"+name);
             return age;
+
         }
         //Main Method
         static void Main(string[] args)
