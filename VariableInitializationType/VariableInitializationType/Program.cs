@@ -9,6 +9,7 @@ namespace VariableInitializationType
     class Program
     {
         int y;
+        var abcd=103;
         static void Main()
         {
             //compile time Initialization
@@ -17,6 +18,7 @@ namespace VariableInitializationType
 
             Program obj = new Program();
             Console.WriteLine("Class Level Variable :"+ obj.y); //use + when no use "," and {0}
+            Console.WriteLine(abcd);
         }
     }
 }

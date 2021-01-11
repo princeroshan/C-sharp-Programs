@@ -5,3 +5,7 @@ D:\C#Programs\VariableInitializationType\VariableInitializationType\obj\Debug\Va
 D:\C#Programs\VariableInitializationType\VariableInitializationType\obj\Debug\VariableInitializationType.csproj.CoreCompileInputs.cache
 D:\C#Programs\VariableInitializationType\VariableInitializationType\obj\Debug\VariableInitializationType.exe
 D:\C#Programs\VariableInitializationType\VariableInitializationType\obj\Debug\VariableInitializationType.pdb
+E:\C#Programs\C-sharp-Programs\VariableInitializationType\VariableInitializationType\obj\Debug\VariableInitializationType.csprojAssemblyReference.cache
+E:\C#Programs\C-sharp-Programs\VariableInitializationType\VariableInitializationType\obj\Debug\VariableInitializationType.csproj.CoreCompileInputs.cache
+E:\C#Programs\C-sharp-Programs\VariableInitializationType\VariableInitializationType\obj\Debug\VariableInitializationType.exe
+E:\C#Programs\C-sharp-Programs\VariableInitializationType\VariableInitializationType\obj\Debug\VariableInitializationType.pdb

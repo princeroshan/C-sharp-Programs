@@ -4,3 +4,9 @@ D:\C#Programs\ContructorStructure\ContructorStructure\bin\Debug\ContructorStruct
 D:\C#Programs\ContructorStructure\ContructorStructure\obj\Debug\ContructorStructure.csproj.CoreCompileInputs.cache
 D:\C#Programs\ContructorStructure\ContructorStructure\obj\Debug\ContructorStructure.exe
 D:\C#Programs\ContructorStructure\ContructorStructure\obj\Debug\ContructorStructure.pdb
+E:\C#Programs\C-sharp-Programs\ContructorStructure\ContructorStructure\bin\Debug\ContructorStructure.exe.config
+E:\C#Programs\C-sharp-Programs\ContructorStructure\ContructorStructure\bin\Debug\ContructorStructure.exe
+E:\C#Programs\C-sharp-Programs\ContructorStructure\ContructorStructure\bin\Debug\ContructorStructure.pdb
+E:\C#Programs\C-sharp-Programs\ContructorStructure\ContructorStructure\obj\Debug\ContructorStructure.csproj.CoreCompileInputs.cache
+E:\C#Programs\C-sharp-Programs\ContructorStructure\ContructorStructure\obj\Debug\ContructorStructure.exe
+E:\C#Programs\C-sharp-Programs\ContructorStructure\ContructorStructure\obj\Debug\ContructorStructure.pdb

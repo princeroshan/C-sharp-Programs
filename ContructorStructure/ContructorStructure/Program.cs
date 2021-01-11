@@ -10,7 +10,7 @@ namespace ContructorStructure
     {
         public int x;
         public int y;
-        public Coordinate(int x1, int y1)
+        public Coordinate(int x1, int y1) // parameterized Constructor
         {
             this.x = x1;
             this.y = y1;
