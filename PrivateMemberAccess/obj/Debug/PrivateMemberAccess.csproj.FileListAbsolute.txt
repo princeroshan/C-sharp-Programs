@@ -1,0 +1,7 @@
+E:\C#Programs\C-sharp-Programs\PrivateMemberAccess\bin\Debug\PrivateMemberAccess.exe.config
+E:\C#Programs\C-sharp-Programs\PrivateMemberAccess\bin\Debug\PrivateMemberAccess.exe
+E:\C#Programs\C-sharp-Programs\PrivateMemberAccess\bin\Debug\PrivateMemberAccess.pdb
+E:\C#Programs\C-sharp-Programs\PrivateMemberAccess\obj\Debug\PrivateMemberAccess.csprojAssemblyReference.cache
+E:\C#Programs\C-sharp-Programs\PrivateMemberAccess\obj\Debug\PrivateMemberAccess.csproj.CoreCompileInputs.cache
+E:\C#Programs\C-sharp-Programs\PrivateMemberAccess\obj\Debug\PrivateMemberAccess.exe
+E:\C#Programs\C-sharp-Programs\PrivateMemberAccess\obj\Debug\PrivateMemberAccess.pdb
