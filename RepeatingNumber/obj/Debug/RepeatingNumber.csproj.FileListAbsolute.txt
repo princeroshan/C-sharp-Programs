@@ -1,0 +1,7 @@
+E:\C#Programs\C-sharp-Programs\RepeatingNumber\bin\Debug\RepeatingNumber.exe.config
+E:\C#Programs\C-sharp-Programs\RepeatingNumber\bin\Debug\RepeatingNumber.exe
+E:\C#Programs\C-sharp-Programs\RepeatingNumber\bin\Debug\RepeatingNumber.pdb
+E:\C#Programs\C-sharp-Programs\RepeatingNumber\obj\Debug\RepeatingNumber.csprojAssemblyReference.cache
+E:\C#Programs\C-sharp-Programs\RepeatingNumber\obj\Debug\RepeatingNumber.csproj.CoreCompileInputs.cache
+E:\C#Programs\C-sharp-Programs\RepeatingNumber\obj\Debug\RepeatingNumber.exe
+E:\C#Programs\C-sharp-Programs\RepeatingNumber\obj\Debug\RepeatingNumber.pdb
