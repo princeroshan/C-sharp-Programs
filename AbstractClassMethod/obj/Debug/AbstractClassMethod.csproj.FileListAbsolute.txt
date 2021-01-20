@@ -1,0 +1,7 @@
+E:\C#Programs\C-sharp-Programs\AbstractClassMethod\obj\Debug\AbstractClassMethod.csprojAssemblyReference.cache
+E:\C#Programs\C-sharp-Programs\AbstractClassMethod\obj\Debug\AbstractClassMethod.csproj.CoreCompileInputs.cache
+E:\C#Programs\C-sharp-Programs\AbstractClassMethod\bin\Debug\AbstractClassMethod.exe.config
+E:\C#Programs\C-sharp-Programs\AbstractClassMethod\bin\Debug\AbstractClassMethod.exe
+E:\C#Programs\C-sharp-Programs\AbstractClassMethod\bin\Debug\AbstractClassMethod.pdb
+E:\C#Programs\C-sharp-Programs\AbstractClassMethod\obj\Debug\AbstractClassMethod.exe
+E:\C#Programs\C-sharp-Programs\AbstractClassMethod\obj\Debug\AbstractClassMethod.pdb

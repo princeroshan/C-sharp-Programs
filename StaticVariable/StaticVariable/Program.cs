@@ -17,6 +17,7 @@ namespace StaticVariable
         //Non-Static Method
         public int add()
         {
+            Foo(); //static method called under non-Static method
             age = age + 5; // static variable accessed and gets updated in non-static method
             return age;
         }
