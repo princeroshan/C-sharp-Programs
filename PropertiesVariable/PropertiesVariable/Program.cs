@@ -14,14 +14,19 @@ namespace PropertiesVariable
         
         public int Marks
         {
-            get
-            {
-                return marks;
-            }
-            set
-            {
-                marks = value;
-            }
+            //get;
+            //set;
+            //OR
+            get=> marks;
+            set=>marks = value;
+            //get
+            //{
+            //    return marks;
+            //}
+            //set
+            //{
+            //    marks = value;
+            //}
         }
 
     }
