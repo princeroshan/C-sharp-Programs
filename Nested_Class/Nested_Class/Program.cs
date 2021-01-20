@@ -9,7 +9,7 @@ namespace Nested_Class
     // Outer class 
     public class Outer_class
     {
-        int marks = 400;
+        int marks = 400; //Bydefault data members are private
         // Method of outer class 
         public void method1()
         {
@@ -29,7 +29,7 @@ namespace Nested_Class
             public static void method3()
             {
                 Outer_class obj = new Outer_class();
-                Console.WriteLine("Outer Class value in static method :"+obj.marks);//accessing outer class data member
+                Console.WriteLine("Outer Class Private value in static method :"+obj.marks);//accessing outer class data member
             }
         }
     }
