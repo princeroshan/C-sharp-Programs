@@ -32,14 +32,15 @@ namespace Private_Nested_Class
             private int a = 400;
             public int a2 //to send private member to outer class
             {
-                get { return a; }
+                get => a;
+                //get { return a; }
                 //set
                 //{
                 //    a = value;
                 //} use it when you want to change value of 'a'
             }
             public static void innerMethod()
-            {
+            { 
                 Inner_class innerobj1 = new Inner_class();
                 //accessing private member in static method
                 Console.WriteLine("Private Member in static Inner Method :"+ innerobj1.a); 
