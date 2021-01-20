@@ -13,14 +13,20 @@ namespace Nested_Class
         // Method of outer class 
         public void method1()
         {
+            Inner_class obj = new Inner_class();
             Console.WriteLine("Outer class method");
+            Console.WriteLine(obj.name); //access public member of inner class
+            //inaccessible due to its protection level, u have to use properties in inner class.
+            //Console.WriteLine(obj.numb);
+
             //Calling static method in outer class
-            //Inner_class.method3();
+            Inner_class.method3();
         }
         // Inner class 
         public class Inner_class
         {
-
+            private int numb=1000;
+            public string name = "inner data members";
             // Method of inner class 
             public void method2()
             {
