@@ -10,6 +10,10 @@ namespace InheritanceConcept
     {
         public string name;
         public string subject;
+        public Base_Class()
+        {
+            Console.WriteLine("Base Class Constructor Called");
+        }
         public void getDetails(string n, string s)
         {
             this.name = n;
