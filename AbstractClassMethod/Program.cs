@@ -34,6 +34,18 @@ namespace AbstractClassMethod
                                                 // throw this exception to overcome compilation error.
         }
     }
+    public class Geek3:Abstract_class
+    {
+        public override void show()
+        {
+            Console.WriteLine("Class Geek3 and abstract method of Abstract Class called");
+        }
+        public override int Area(int x, int y)
+        {
+            int res = x * x + y * y + 2*x*y;
+            return res;
+        }
+    }
     class Program
     {
         static void Main(string[] args)
@@ -44,7 +56,10 @@ namespace AbstractClassMethod
             Console.WriteLine("Multiplication of Two Number are :" + obj.Area(10, 20));
             obj = new Geek2();
             obj.show();
-
+            obj = new Geek3();
+            obj.show();
+            int res=obj.Area(2, 4);
+            Console.WriteLine("(X+Y)^2 is :" +res);
 
         }
     }
