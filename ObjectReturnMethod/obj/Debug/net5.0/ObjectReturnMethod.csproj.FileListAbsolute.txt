@@ -1,0 +1,16 @@
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectReturnMethod\bin\Debug\net5.0\ObjectReturnMethod.exe
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectReturnMethod\bin\Debug\net5.0\ObjectReturnMethod.deps.json
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectReturnMethod\bin\Debug\net5.0\ObjectReturnMethod.runtimeconfig.json
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectReturnMethod\bin\Debug\net5.0\ObjectReturnMethod.runtimeconfig.dev.json
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectReturnMethod\bin\Debug\net5.0\ObjectReturnMethod.dll
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectReturnMethod\bin\Debug\net5.0\ref\ObjectReturnMethod.dll
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectReturnMethod\bin\Debug\net5.0\ObjectReturnMethod.pdb
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectReturnMethod\obj\Debug\net5.0\ObjectReturnMethod.csprojAssemblyReference.cache
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectReturnMethod\obj\Debug\net5.0\ObjectReturnMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectReturnMethod\obj\Debug\net5.0\ObjectReturnMethod.AssemblyInfoInputs.cache
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectReturnMethod\obj\Debug\net5.0\ObjectReturnMethod.AssemblyInfo.cs
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectReturnMethod\obj\Debug\net5.0\ObjectReturnMethod.csproj.CoreCompileInputs.cache
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectReturnMethod\obj\Debug\net5.0\ObjectReturnMethod.dll
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectReturnMethod\obj\Debug\net5.0\ref\ObjectReturnMethod.dll
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectReturnMethod\obj\Debug\net5.0\ObjectReturnMethod.pdb
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectReturnMethod\obj\Debug\net5.0\ObjectReturnMethod.genruntimeconfig.cache
