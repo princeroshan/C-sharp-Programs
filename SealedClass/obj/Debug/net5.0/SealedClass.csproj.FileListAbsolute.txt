@@ -1,0 +1,15 @@
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedClass\bin\Debug\net5.0\SealedClass.exe
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedClass\bin\Debug\net5.0\SealedClass.deps.json
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedClass\bin\Debug\net5.0\SealedClass.runtimeconfig.json
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedClass\bin\Debug\net5.0\SealedClass.runtimeconfig.dev.json
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedClass\bin\Debug\net5.0\SealedClass.dll
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedClass\bin\Debug\net5.0\ref\SealedClass.dll
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedClass\bin\Debug\net5.0\SealedClass.pdb
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedClass\obj\Debug\net5.0\SealedClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedClass\obj\Debug\net5.0\SealedClass.AssemblyInfoInputs.cache
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedClass\obj\Debug\net5.0\SealedClass.AssemblyInfo.cs
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedClass\obj\Debug\net5.0\SealedClass.csproj.CoreCompileInputs.cache
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedClass\obj\Debug\net5.0\SealedClass.dll
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedClass\obj\Debug\net5.0\ref\SealedClass.dll
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedClass\obj\Debug\net5.0\SealedClass.pdb
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedClass\obj\Debug\net5.0\SealedClass.genruntimeconfig.cache
