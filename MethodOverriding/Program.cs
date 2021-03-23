@@ -21,7 +21,7 @@ namespace MethodOverriding
     {
 
         // overriding
-        new public void show()
+         public void show()
         {
             Console.WriteLine("Derived class");
         }

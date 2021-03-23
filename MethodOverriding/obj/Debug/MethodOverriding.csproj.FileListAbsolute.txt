@@ -5,3 +5,10 @@ E:\C#Programs\C-sharp-Programs\MethodOverriding\obj\Debug\MethodOverriding.cspro
 E:\C#Programs\C-sharp-Programs\MethodOverriding\obj\Debug\MethodOverriding.csproj.CoreCompileInputs.cache
 E:\C#Programs\C-sharp-Programs\MethodOverriding\obj\Debug\MethodOverriding.exe
 E:\C#Programs\C-sharp-Programs\MethodOverriding\obj\Debug\MethodOverriding.pdb
+C:\MyFiles\C#Programs\C-sharp-Programs\MethodOverriding\bin\Debug\MethodOverriding.exe.config
+C:\MyFiles\C#Programs\C-sharp-Programs\MethodOverriding\bin\Debug\MethodOverriding.exe
+C:\MyFiles\C#Programs\C-sharp-Programs\MethodOverriding\bin\Debug\MethodOverriding.pdb
+C:\MyFiles\C#Programs\C-sharp-Programs\MethodOverriding\obj\Debug\MethodOverriding.csprojAssemblyReference.cache
+C:\MyFiles\C#Programs\C-sharp-Programs\MethodOverriding\obj\Debug\MethodOverriding.csproj.CoreCompileInputs.cache
+C:\MyFiles\C#Programs\C-sharp-Programs\MethodOverriding\obj\Debug\MethodOverriding.exe
+C:\MyFiles\C#Programs\C-sharp-Programs\MethodOverriding\obj\Debug\MethodOverriding.pdb
