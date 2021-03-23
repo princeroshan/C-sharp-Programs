@@ -1,0 +1,16 @@
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectClass\bin\Debug\net5.0\ObjectClass.exe
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectClass\bin\Debug\net5.0\ObjectClass.deps.json
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectClass\bin\Debug\net5.0\ObjectClass.runtimeconfig.json
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectClass\bin\Debug\net5.0\ObjectClass.runtimeconfig.dev.json
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectClass\bin\Debug\net5.0\ObjectClass.dll
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectClass\bin\Debug\net5.0\ref\ObjectClass.dll
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectClass\bin\Debug\net5.0\ObjectClass.pdb
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectClass\obj\Debug\net5.0\ObjectClass.csprojAssemblyReference.cache
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectClass\obj\Debug\net5.0\ObjectClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectClass\obj\Debug\net5.0\ObjectClass.AssemblyInfoInputs.cache
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectClass\obj\Debug\net5.0\ObjectClass.AssemblyInfo.cs
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectClass\obj\Debug\net5.0\ObjectClass.csproj.CoreCompileInputs.cache
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectClass\obj\Debug\net5.0\ObjectClass.dll
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectClass\obj\Debug\net5.0\ref\ObjectClass.dll
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectClass\obj\Debug\net5.0\ObjectClass.pdb
+C:\MyFiles\C#Programs\C-sharp-Programs\ObjectClass\obj\Debug\net5.0\ObjectClass.genruntimeconfig.cache

@@ -1,7 +1,0 @@
-E:\C#Programs\C-sharp-Programs\MatrixArrayImplementation\bin\Debug\MatrixArrayImplementation.exe.config
-E:\C#Programs\C-sharp-Programs\MatrixArrayImplementation\bin\Debug\MatrixArrayImplementation.exe
-E:\C#Programs\C-sharp-Programs\MatrixArrayImplementation\bin\Debug\MatrixArrayImplementation.pdb
-E:\C#Programs\C-sharp-Programs\MatrixArrayImplementation\obj\Debug\MatrixArrayImplementation.csprojAssemblyReference.cache
-E:\C#Programs\C-sharp-Programs\MatrixArrayImplementation\obj\Debug\MatrixArrayImplementation.csproj.CoreCompileInputs.cache
-E:\C#Programs\C-sharp-Programs\MatrixArrayImplementation\obj\Debug\MatrixArrayImplementation.exe
-E:\C#Programs\C-sharp-Programs\MatrixArrayImplementation\obj\Debug\MatrixArrayImplementation.pdb
