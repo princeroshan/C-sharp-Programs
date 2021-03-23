@@ -1,0 +1,15 @@
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedMethod\bin\Debug\net5.0\SealedMethod.exe
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedMethod\bin\Debug\net5.0\SealedMethod.deps.json
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedMethod\bin\Debug\net5.0\SealedMethod.runtimeconfig.json
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedMethod\bin\Debug\net5.0\SealedMethod.runtimeconfig.dev.json
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedMethod\bin\Debug\net5.0\SealedMethod.dll
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedMethod\bin\Debug\net5.0\ref\SealedMethod.dll
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedMethod\bin\Debug\net5.0\SealedMethod.pdb
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedMethod\obj\Debug\net5.0\SealedMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedMethod\obj\Debug\net5.0\SealedMethod.AssemblyInfoInputs.cache
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedMethod\obj\Debug\net5.0\SealedMethod.AssemblyInfo.cs
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedMethod\obj\Debug\net5.0\SealedMethod.csproj.CoreCompileInputs.cache
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedMethod\obj\Debug\net5.0\SealedMethod.dll
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedMethod\obj\Debug\net5.0\ref\SealedMethod.dll
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedMethod\obj\Debug\net5.0\SealedMethod.pdb
+C:\MyFiles\C#Programs\C-sharp-Programs\SealedMethod\obj\Debug\net5.0\SealedMethod.genruntimeconfig.cache
