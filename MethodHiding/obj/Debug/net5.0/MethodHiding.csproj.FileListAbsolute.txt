@@ -1,0 +1,15 @@
+C:\MyFiles\C#Programs\C-sharp-Programs\MethodHiding\bin\Debug\net5.0\MethodHiding.exe
+C:\MyFiles\C#Programs\C-sharp-Programs\MethodHiding\bin\Debug\net5.0\MethodHiding.deps.json
+C:\MyFiles\C#Programs\C-sharp-Programs\MethodHiding\bin\Debug\net5.0\MethodHiding.runtimeconfig.json
+C:\MyFiles\C#Programs\C-sharp-Programs\MethodHiding\bin\Debug\net5.0\MethodHiding.runtimeconfig.dev.json
+C:\MyFiles\C#Programs\C-sharp-Programs\MethodHiding\bin\Debug\net5.0\MethodHiding.dll
+C:\MyFiles\C#Programs\C-sharp-Programs\MethodHiding\bin\Debug\net5.0\ref\MethodHiding.dll
+C:\MyFiles\C#Programs\C-sharp-Programs\MethodHiding\bin\Debug\net5.0\MethodHiding.pdb
+C:\MyFiles\C#Programs\C-sharp-Programs\MethodHiding\obj\Debug\net5.0\MethodHiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\C#Programs\C-sharp-Programs\MethodHiding\obj\Debug\net5.0\MethodHiding.AssemblyInfoInputs.cache
+C:\MyFiles\C#Programs\C-sharp-Programs\MethodHiding\obj\Debug\net5.0\MethodHiding.AssemblyInfo.cs
+C:\MyFiles\C#Programs\C-sharp-Programs\MethodHiding\obj\Debug\net5.0\MethodHiding.csproj.CoreCompileInputs.cache
+C:\MyFiles\C#Programs\C-sharp-Programs\MethodHiding\obj\Debug\net5.0\MethodHiding.dll
+C:\MyFiles\C#Programs\C-sharp-Programs\MethodHiding\obj\Debug\net5.0\ref\MethodHiding.dll
+C:\MyFiles\C#Programs\C-sharp-Programs\MethodHiding\obj\Debug\net5.0\MethodHiding.pdb
+C:\MyFiles\C#Programs\C-sharp-Programs\MethodHiding\obj\Debug\net5.0\MethodHiding.genruntimeconfig.cache
